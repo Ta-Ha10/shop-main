@@ -1,0 +1,58 @@
+name: untitled20
+description: "A new Flutter project."
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/assets/Image1.jpg
+    - images/assets/Image2.jpg
+    - images/assets/Image3.jpg
+    - images/assets/Image4.jpg
+    - images/assets/Image5.jpg
+    - images/assets/Image6.jpg
+    - images/assets/Image7.jpg
+    - images/assets/Image8.jpg
+    - images/assets/Image9.jpg
+    - images/assets/Image10.jpg
+    - images/assets/Image12.jpg
+    - images/assets/Image13.jpg
+    - images/assets/Image14.jpg
+    - images/assets/Image15.jpg
+    - images/assets/Image16.jpg
+    - images/assets/Image17.jpg
+    - images/assets/Image18.jpg
+    - images/assets/Image19.jpg
+    - images/assets/Image20.jpg
+    - images/assets/Image21.jpg
+    - images/assets/Image23.jpg
+    - images/assets/Image24.jpg
+    - images/assets/Image25.jpg
+    - images/assets/Image26.jpg
+    - images/assets/Image27.jpg
+
+
+
+
+
+
+
+
